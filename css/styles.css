@@ -9,7 +9,7 @@ body {
 }
 
 .container_fluid{
- padding: 3% 15%
+ padding: 3% 10%
   }
 
 
@@ -38,7 +38,7 @@ body {
     border-collapse: collapse;
     padding: 5px;
     font-family: New Century Schoolbook, serif;
-    font-size: 10px;
+    font-size: 40px;
   }
   p {
     font-size: 15px;
