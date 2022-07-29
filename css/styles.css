@@ -1,43 +1,57 @@
 body {
   background-repeat: no-repeat;
   background-size:cover;
-  background-color: #F4BFBF;
-  color: #071E3D;
-  font-family: New Century Schoolbook, serif;
+  background-color: #4E944F;
+  color: #fff;
+  font-family: "montserrat";
   font-size: 15px;
   font-weight: bold;
 }
+
 
 .container_fluid{
  padding: 3% 10%
   }
 
+  .navbar {
+ min-height: 200px;
+
+}
+ .nav-item {
+   font-size: 20px;
+ }
+ .navbar-brand {
+   font-size: 30px;
+   
+ }
+
+
 
   h1 {
-    color: #4C0027;
-    font-family: New Century Schoolbook, serif;
+    color: #D61C4E;
+
     font-size: 40px;
   }
   h2 {
-    color: #151515;
-    font-family: New Century Schoolbook, serif;
+    color: #610C63;
+
     font-size: 30px;
   }
   h3 {
-    color: #1E5128;
-    font-family: New Century Schoolbook, serif;
+    color: #fff;
+
     font-size: 20px;
   }
   h4 {
-    color: #270082;
-    font-family: New Century Schoolbook, serif;
+    color: #fff;
+
     font-size: 20px;
   }
   table, th, td {
     border: 0px solid black;
     border-collapse: collapse;
     padding: 5px;
-    font-family: New Century Schoolbook, serif;
+
     font-size: 30px;
   }
   p {
